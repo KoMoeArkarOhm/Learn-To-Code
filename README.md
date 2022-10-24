@@ -9,24 +9,6 @@ learn programming basic with python
  
  2.C:\xampp ထဲက xampp-control ကို ဖွင့်ပြီး apache နဲ့ mysql ကို start နိပ်လိုက်ပါ။
  
- ![Image of phpsetup1](https://github.com/KoMoeArkarOhm/my_php_projects/blob/master/images/php_setup_ss_1.PNG)
+ ![Image of phpsetup1](https://github.com/KoMoeArkarOhm/image_resources_to_use_in_my_repositories/blob/master/Inkedpython_installation_LI.jpg)
  
- ![Image of phpsetup2](https://github.com/KoMoeArkarOhm/my_php_projects/blob/master/images/php_setup_ss_2.PNG)
  
-3.![Image of download_guide](https://github.com/KoMoeArkarOhm/my_php_projects/blob/master/images/my_php_projects_pwc_ss_1_guide.png)
- 
- project ကို ပုံမှာပြထားတဲ့အတိုင်း clone or download ကို နိပ် ပြီး download ZIP ကိုနိပ်ပြီး ဒေါင်းနိင်သလို
- git သွင်းထားတဲ့သူက 
- cmd ကိုဖွင့် ပြီး
- 
- ```
-cd C:\xampp\htdocs
-
-git clone https://github.com/KoMoeArkarOhm/my_php_projects.git
- ```
- 
- ရိုးရိုး zipကို download တဲ့သူက download ရရှိထားသော zip file ကို ဖြည့်ပြီး C:\xampp\htdocs အောက်ကို ကူးထည့်ပေးရပါမယ်။
- 
- ရိုးရိုး ဒေါင်းသူဖြစ်ဖြစ် git clone နဲ့ ဒေါင်းသူဖြစ်ဖြစ်ပါ 
- browser မှာ  ``` http://localhost/my_php_projects/play_with_cookies/  ```ဆိုပြီး url address မှာ ရိုက်ထည်လိုက်ရင် 
- project in action (လက်တွေ အလုပ်လုပ် outputမြင်ရသော project ကို မြင်တွေရမှာဖြစ်ပါတယ်။)
